@@ -20,7 +20,7 @@
 							<ul class="list-unstyled footer-seven__links__list">
 								<li> <a href="/aboutus">About Us</a> </li>
 								<li> <a href="/contactus">Contact Us</a> </li>
-								<li> <a href="/careers">Careets</a> </li>
+								<li> <a href="/careers">Careers</a> </li>
 								
 							</ul><!-- /.list-unstyled footer-seven__links__list -->
 						</div><!-- /.footer-seven__widget footer-seven__links -->
