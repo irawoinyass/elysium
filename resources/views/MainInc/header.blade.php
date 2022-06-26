@@ -9,7 +9,7 @@
 			<div class="side-menu__block-inner ">
 				<div class="side-menu__top justify-content-end">
 
-					<a href="#" class="side-menu__toggler side-menu__close-btn"><img src="/main/images/icons/close-1-1.png"
+					<a href="/" class="side-menu__toggler side-menu__close-btn"><img src="/main/images/icons/close-1-1.png"
 							alt=""></a>
 				</div><!-- /.side-menu__top -->
 
@@ -53,7 +53,7 @@
 			<div class="auto-container">
 				<div class="nav-outer mainmenu-seven__inner ">
 					<div class="mainmenu-seven__left">
-						<a href="index-main.html">
+						<a href="/">
 							<img src="/main/images/logo.png" width="134"
 								alt="Elysium Logo">
 						</a>
